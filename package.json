@@ -1,0 +1,19 @@
+{
+  "name": "nebula-api",
+  "version": "1.0.0",
+  "description": "The nebula api used for the Chive package manager called nebula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nebula",
+    "api",
+    "chive"
+  ],
+  "author": "CodeBoy124",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

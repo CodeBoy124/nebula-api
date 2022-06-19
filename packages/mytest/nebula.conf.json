@@ -1,0 +1,11 @@
+{
+  "name": "mytest",
+  "description": "just a test",
+  "author": "CodeBoy124",
+  "main": "main.ch",
+  "packages": [],
+  "includes": [
+    "./libs/other.ch"
+  ],
+  "scripts": {}
+}
